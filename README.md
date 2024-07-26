@@ -1,5 +1,5 @@
 # 💫 About Me:
-Contact: 1rn34wry0x@morke.org
+Contact: 1rn34wry0x@morke.org  | zuhi535@proton.me
 
 
 
