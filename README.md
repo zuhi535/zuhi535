@@ -1,5 +1,5 @@
 # 💫 About Me:
-Contact: zuhi535@proton.me |asd
+Contact: zuhi535@proton.me 
 
 
 
