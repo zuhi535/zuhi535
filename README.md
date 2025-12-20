@@ -55,7 +55,7 @@
 
 <!--## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-<!--1. ❌ Closed PR [#1](https://github.com//zuhi535/IoT/pull/1) in [zuhi535/IoT](https://github.com//zuhi535/IoT)
+1. ❌ Closed PR [#1](https://github.com//zuhi535/IoT/pull/1) in [zuhi535/IoT](https://github.com//zuhi535/IoT)
 2. 💪 Opened PR [#1](https://github.com//zuhi535/IoT/pull/1) in [zuhi535/IoT](https://github.com//zuhi535/IoT)
 <!--END_SECTION:activity-->
 
