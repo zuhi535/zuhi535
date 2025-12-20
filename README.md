@@ -1,3 +1,16 @@
+<div align="center">
+
+## 🌙 About Me
+
+🎓 **Graduate Computer Science** student  
+🧩 Specialization: **Software Developer / Information Specialist**  
+🔐 Aspiring **Cybersecurity Engineer**
+
+</div>
+
+---
+
+
 <!--UD_BOT-->
 <h2 align="left"></h2>
 <a href="https://github.com/zuhi535">
