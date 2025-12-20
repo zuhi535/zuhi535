@@ -1,18 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=41B883&center=true&vCenter=true&width=650&lines=Graduate+CS+Student;Software+Developer+%2F+Information+Specialist;Aspiring+Cybersecurity+Engineer;Keep+it+simple+%E2%80%A2+Keep+it+secure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=41B883&center=true&vCenter=true&width=650&lines=Graduate+CS+Student;Software+Developer+Specialist;Aspiring+Cybersecurity+Engineer;Keep+it+simple+%E2%80%A2+Keep+it+secure)](https://git.io/typing-svg)
 
 </div>
-
----
-
-
-
-<!--UD_BOT-->
-<h2 align="left"></h2>
-<a href="https://github.com/zuhi535">
-   <img src="https://komarev.com/ghpvc/?username=zuhi535">
-</a>
 
 ###
 
@@ -25,7 +15,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=zuhi535&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
@@ -50,7 +39,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -60,4 +49,7 @@
 
 ---
 
+<a href="https://github.com/zuhi535">
+   <img src="https://komarev.com/ghpvc/?username=zuhi535">
+</a>
 
