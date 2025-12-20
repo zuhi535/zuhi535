@@ -1,14 +1,11 @@
 <div align="center">
 
-## 🌙 About Me
-
-🎓 **Graduate Computer Science** student  
-🧩 Specialization: **Software Developer / Information Specialist**  
-🔐 Aspiring **Cybersecurity Engineer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=41B883&center=true&vCenter=true&width=650&lines=Graduate+CS+Student;Software+Developer+%2F+Information+Specialist;Aspiring+Cybersecurity+Engineer;Keep+it+simple+%E2%80%A2+Keep+it+secure)](https://git.io/typing-svg)
 
 </div>
 
 ---
+
 
 
 <!--UD_BOT-->
@@ -44,5 +41,23 @@
     <br>C++
 </td>
 
+
+
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=zuhi535&theme=vue&hide_border=false)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://streak-stats.demolab.com?user=zuhi535&theme=vue-dark&hide_border=false)
+
+</div>
+
+---
 
 
