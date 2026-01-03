@@ -11,10 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhi535&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
----
-
 [![](https://visitcount.itsvg.in/api?id=zuhi535&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ###
 
@@ -30,16 +27,9 @@
     <br>C++
 </td>
 
-
-
-
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=zuhi535&theme=vue&hide_border=false)
-
 </div>
-
-
 
 <div align="center">
 
@@ -58,5 +48,3 @@
 1. ❌ Closed PR [#1](https://github.com//zuhi535/IoT/pull/1) in [zuhi535/IoT](https://github.com//zuhi535/IoT)
 2. 💪 Opened PR [#1](https://github.com//zuhi535/IoT/pull/1) in [zuhi535/IoT](https://github.com//zuhi535/IoT)
 <!--END_SECTION:activity-->
-
-
